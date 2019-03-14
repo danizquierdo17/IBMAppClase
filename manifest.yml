@@ -1,6 +1,6 @@
 applications:
 - name:      bluemix-todo-node
-  host:      ibmviernescatorce
+  host:      iesibmchavales
   memory:    128M
   services:
   - todo-db
